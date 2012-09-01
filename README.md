@@ -1,0 +1,4 @@
+pytletismo
+==========
+
+Athletics "simulator"
